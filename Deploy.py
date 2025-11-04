@@ -1,3 +1,6 @@
+pip install --upgrade pip
+pip install tensorflow streamlit numpy opencv-python pillow
+
 import streamlit as st
 import tensorflow as tf
 import numpy as np 
