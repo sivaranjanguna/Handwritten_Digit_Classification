@@ -3,4 +3,6 @@ seaborn
 numpy
 tensorflow
 opencv-python
-PILLOW
+streamlit
+Pillow
+streamlit-drawable-canvas
